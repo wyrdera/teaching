@@ -3,17 +3,17 @@
 * Página do repositório do trabalho ([link GitHub](TODO)) 
 
 * Discente 1
-	* Nome: TODO
-	* Matrícula: TODO 
-	* Distribuição da nota (%): TODO
+	* Nome: WILLIAM CHRISTIAN RAMOS TAVARES DE LIMA
+	* Matrícula: 10801625424
+	* Distribuição da nota (%): 33,33
 * Discente 2
 	* Nome: TODO
 	* Matrícula: TODO
-	* Distribuição da nota (%): TODO
+	* Distribuição da nota (%): 33,33
 * Discente 3
 	* Nome: TODO
 	* Matrícula: TODO
-	* Distribuição da nota (%): TODO		
+	* Distribuição da nota (%): 33,33		
 	
 # Resultados
 
