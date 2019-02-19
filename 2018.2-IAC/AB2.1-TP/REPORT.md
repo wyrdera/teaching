@@ -7,8 +7,8 @@
 	* Matrícula: 10801625424
 	* Distribuição da nota (%): 33,33
 * Discente 2
-	* Nome: TODO
-	* Matrícula: TODO
+	* Nome: ARTHUR RODRIGUES CAETANO DA SILVA SAMPAIO
+	* Matrícula: 18211738
 	* Distribuição da nota (%): 33,33
 * Discente 3
 	* Nome: TODO
